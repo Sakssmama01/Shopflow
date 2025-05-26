@@ -6,8 +6,9 @@ A simple Android app built using **Kotlin** and **Jetpack Compose** that display
 - Kotlin
 - Android Studio
 
-## 🎥 Demo Video
-[Watch the demo](ShopFlowDemo.mp4)
+## 🎥 Demo Video  
+[Watch the demo](DemoVideo.mp4)
+
 
 ## 🚀 How to Run
 1. Clone the repo
