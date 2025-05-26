@@ -4,7 +4,6 @@ A simple Android app built using **Kotlin** and **Jetpack Compose** that display
 
 ## ⚙️ Tech Used
 - Kotlin
-- Jetpack Compose
 - Android Studio
 
 ## 🎥 Demo Video
