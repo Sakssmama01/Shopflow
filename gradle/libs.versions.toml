@@ -1,0 +1,18 @@
+[versions]
+compose-ui = "1.6.7"
+compose-material = "1.6.7"
+compose-tooling = "1.6.7"
+activity-compose = "1.8.2"
+android-gradle-plugin = "8.0.2"
+kotlin = "1.9.10"
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "android-gradle-plugin" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+kotlin-kapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" }
+
+[libraries]
+androidx-compose-ui = { group = "androidx.compose.ui", name = "ui", version.ref = "compose-ui" }
+androidx-compose-material = { group = "androidx.compose.material", name = "material", version.ref = "compose-material" }
+androidx-compose-tooling-preview = { group = "androidx.compose.ui", name = "ui-tooling-preview", version.ref = "compose-tooling" }
+androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "activity-compose" }
