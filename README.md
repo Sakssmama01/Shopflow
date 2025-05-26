@@ -1,14 +1,13 @@
 # 🛒 ShopFlow App
 
-A simple Android app built using **Kotlin** and **Jetpack Compose** that displays a basic Shop Flow screen.
+A simple Android app built using **Kotlin** that displays a basic Shop Flow screen.
 
 ## ⚙️ Tech Used
 - Kotlin
 - Android Studio
 
 ## 🎥 Demo Video  
-[Watch the demo](DemoVideo.mp4)
-
+[Watch the demo on Google Drive](https://drive.google.com/file/d/1mnZWuto956jcz2GcbtTCE9Bst-YEfmpT/view?usp=drive_link)
 
 ## 🚀 How to Run
 1. Clone the repo
